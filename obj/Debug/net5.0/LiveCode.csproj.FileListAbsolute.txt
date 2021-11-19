@@ -1,0 +1,16 @@
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\LiveCode.exe
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\LiveCode.deps.json
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\LiveCode.runtimeconfig.json
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\LiveCode.runtimeconfig.dev.json
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\LiveCode.dll
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\ref\LiveCode.dll
+C:\Users\trump\workspace\csharp\LiveCode\bin\Debug\net5.0\LiveCode.pdb
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.csproj.AssemblyReference.cache
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.AssemblyInfoInputs.cache
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.AssemblyInfo.cs
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.csproj.CoreCompileInputs.cache
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.dll
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\ref\LiveCode.dll
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.pdb
+C:\Users\trump\workspace\csharp\LiveCode\obj\Debug\net5.0\LiveCode.genruntimeconfig.cache
